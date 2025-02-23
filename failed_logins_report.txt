@@ -1,0 +1,15 @@
+Failed Login Attempts Detected:
+----------------------------------------
+Time: 2/22/2025 11:29:XX PM
+Account: TestAccount
+Event ID: 4625
+----------------------------------------
+Time: 2/22/2025 11:29:XX PM
+Account: TestAccount
+Event ID: 4625
+----------------------------------------
+Time: 2/22/2025 11:04:XX PM
+Account: TestAccount
+Event ID: 4625
+----------------------------------------
+[Shortened for demo—original caught 15 attempts!]
